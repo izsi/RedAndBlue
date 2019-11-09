@@ -1,0 +1,219 @@
+{
+	"items": [
+		{
+			"key": "TitleGameTitle",
+			"value": "Placeholder Title"
+		},
+		{
+			"key": "TitleLoadGame",
+			"value": "Load Game"
+		},
+		{
+			"key": "TitleNewGame",
+			"value": "New Game"
+		},
+		{
+			"key": "TitleGallery",
+			"value": "Gallery"
+		},
+		{
+			"key": "TitleCredits",
+			"value": "Credits"
+		},
+		{
+			"key": "TitleLanguage",
+			"value": "Language"
+		},
+		{
+			"key": "MainCharacterName",
+			"value": "Toki Cardo"
+		},
+		{
+			"key": "Blue1Name",
+			"value": "Merus Hierofalco"
+		},
+		{
+			"key": "Blue2Name",
+			"value": "Sabulo Anguis"
+		},
+		{
+			"key": "Blue3Name",
+			"value": "Labrusca Belladona"
+		},
+		{
+			"key": "Blue4Name",
+			"value": "Blue4 Name"
+		},
+		{
+			"key": "Red1Name",
+			"value": "Lucian Ursus"
+		},
+		{
+			"key": "Red2Name",
+			"value": "Rosalia Consero"
+		},
+		{
+			"key": "Red3Name",
+			"value": "Ardesco Innovo"
+		},
+		{
+			"key": "Red4Name",
+			"value": "Red4 Name"
+		},
+		{
+			"key": "KingName",
+			"value": "Aurelius Aeternitas"
+		},
+		{
+			"key": "SoldierName",
+			"value": "Soldier"
+		},
+		{
+			"key": "ConfirmationYes",
+			"value": "Yes"
+		},
+		{
+			"key": "ConfirmationNo",
+			"value": "No"
+		},
+		{
+			"key": "LeaveTownConfirmation",
+			"value": "Are you sure you have made all necessary preparations before departing?"
+		},
+		{
+			"key": "TestDialogueScene1",
+			"value": "Initial main character text. Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing"
+		},
+		{
+			"key": "TestDialogueScene2",
+			"value": "Main character speaking some more. Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing"
+		},
+
+		{
+			"key": "TestDialogueScene3",
+			"value": "Blue1 is saying something. Testing Testing Testing Testing Testing Testing Testing Testing Testing"
+		},
+
+		{
+			"key": "TestDialogueScene4",
+			"value": "Blue2 has appeared and is saying something."
+		},
+
+		{
+			"key": "TestDialogueScene5",
+			"value": "Red 1 has stepped in and is saying something."
+		},
+		{
+			"key": "TestDialogueSceneFirstOption",
+			"value": "First Option"
+		},
+		{
+			"key": "TestDialogueSceneSecondOption",
+			"value": "Second Option"
+		},
+		{
+			"key": "TestDialogueSceneThirdOption",
+			"value": "Third Option"
+		},
+		{
+			"key": "TestDialogueScene6",
+			"value": "(Nothing in particular happens. Seems like I didn't pick the correct choice)"
+		},
+		{
+			"key": "TestDialogueScene7",
+			"value": "(Blue1 seems pleased. Seems like I made the correct choice)"
+		},
+		{
+			"key": "TestDialogueScene8",
+			"value": "(end of scene)"
+		},
+		{
+			"key": "Narration_Intro_1",
+			"value": "Initial scene. Flashback. Red1 and Blue1 talking."
+		},
+		{
+			"key": "Narration_Intro_2",
+			"value": "Enter young K. Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing"
+		},
+		{
+			"key": "Narration_Intro_3",
+			"value": "Map time! Intial explanation of setting."
+		},
+		{
+			"key": "Narration_Intro_4",
+			"value": "Explaining kingdom, mages, etc. Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing"
+		},
+		{
+			"key": "Dialogue_InitialMonologue_1",
+			"value": "Enter main character. Some monologue explaining his situation."
+		},
+		{
+			"key": "Dialogue_InitialMonologue_2",
+			"value": "Arrival at capital for Assembly, background on border skirmishes."
+		},
+		{
+			"key": "Town_InitialBlue1TalkedTo1",
+			"value": "Summary of conversation. Testing Testing Testing Testing Testing Testing Testing Testing "
+		},
+		{
+			"key": "Town_InitialBlue1TalkedTo2",
+			"value": "Some more text"
+		},
+		{
+			"key": "Town_InitialSoldierConfirmation1",
+			"value": "We have secured a route to our next target."
+		},
+		{
+			"key": "Town_InitialSoldierConfirmation2",
+			"value": "Would you like to give the order to leave for battle?"
+		},
+		{
+			"key": "SaveWindowText",
+			"value": "Select a slot to save your progress."
+		},
+		{
+			"key": "LoadWindowText",
+			"value": "Select a slot to load."
+		},
+		{
+			"key": "SaveSlot",
+			"value": "Slot"
+		},
+		{
+			"key": "SaveTime",
+			"value": "Time"
+		},
+		{
+			"key": "SaveFaction",
+			"value": "Faction"
+		},
+		{
+			"key": "SaveNoData",
+			"value": "No Data"
+		},
+		{
+			"key": "SaveDone",
+			"value": "Done"
+		},
+		{
+			"key": "SaveReturnToTitle",
+			"value": "Return To Title"
+		},
+		{
+			"key": "SaveReturnConfirmation",
+			"value": "Are you sure you want to return to the title screen?"
+		},
+		{
+			"key": "SaveWriteConfirmation",
+			"value": "Are you sure you want to save your progress to this slot?"
+		},
+		{
+			"key": "LoadDataConfirmation",
+			"value": "Are you sure you want to load this data?"
+		},
+		{
+			"key": "DefeatText",
+			"value": "Your story has met an untimely end.\n\nYour name is listed amongst the defeated."
+		}
+	]
+}

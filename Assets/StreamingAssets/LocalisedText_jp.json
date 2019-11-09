@@ -1,0 +1,219 @@
+{
+	"items": [
+		{
+			"key": "TitleGameTitle",
+			"value": "タイトル（仮）"
+		},
+		{
+			"key": "TitleLoadGame",
+			"value": "ロード"
+		},
+		{
+			"key": "TitleNewGame",
+			"value": "新しくスタート"
+		},
+		{
+			"key": "TitleGallery",
+			"value": "ギャラリー"
+		},
+		{
+			"key": "TitleCredits",
+			"value": "クレジット"
+		},
+		{
+			"key": "TitleLanguage",
+			"value": "言語"
+		},
+		{
+			"key": "MainCharacterName",
+			"value": "トキ・カルド"
+		},
+		{
+			"key": "Blue1Name",
+			"value": "メルス・ヒエロファルコ"
+		},
+		{
+			"key": "Blue2Name",
+			"value": "サビュロ・アングイス"
+		},
+		{
+			"key": "Blue3Name",
+			"value": "ラブルスカ・ベラドンナ"
+		},
+		{
+			"key": "Blue4Name",
+			"value": "Blue4 名前"
+		},
+		{
+			"key": "Red1Name",
+			"value": "ルシアン・ウルスス"
+		},
+		{
+			"key": "Red2Name",
+			"value": "ロザリア・コンセロ"
+		},
+		{
+			"key": "Red3Name",
+			"value": "アルデスコ・インノヴォ"
+		},
+		{
+			"key": "Red4Name",
+			"value": "Red4 名前"
+		},
+		{
+			"key": "KingName",
+			"value": "アウレリウス・アイターニタス"
+		},
+		{
+			"key": "SoldierName",
+			"value": "兵士"
+		},
+		{
+			"key": "ConfirmationYes",
+			"value": "はい"
+		},
+		{
+			"key": "ConfirmationNo",
+			"value": "いいえ"
+		},
+		{
+			"key": "LeaveTownConfirmation",
+			"value": "出立前の準備は全てお済みですか？"
+		},
+		{
+			"key": "TestDialogueScene1",
+			"value": "主人公の第一声。テストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト"
+		},
+		{
+			"key": "TestDialogueScene2",
+			"value": "主人公が続けてしゃべる。テストテストテストテストテストテストテストテストテストテストテストテストテストテストテストテスト"
+		},
+
+		{
+			"key": "TestDialogueScene3",
+			"value": "青１が何か言っています。テストテストテストテストテストテストテストテストテストテストテストテスト"
+		},
+
+		{
+			"key": "TestDialogueScene4",
+			"value": "青２が現れて何か言っています。"
+		},
+
+		{
+			"key": "TestDialogueScene5",
+			"value": "赤１が割り込んで何やら言っています。"
+		},
+		{
+			"key": "TestDialogueSceneFirstOption",
+			"value": "選択肢１"
+		},
+		{
+			"key": "TestDialogueSceneSecondOption",
+			"value": "選択肢２"
+		},
+		{
+			"key": "TestDialogueSceneThirdOption",
+			"value": "選択肢３"
+		},
+		{
+			"key": "TestDialogueScene6",
+			"value": "（特に何も起きない。不正解を選んだみたいだ。）"
+		},
+		{
+			"key": "TestDialogueScene7",
+			"value": "（青１が喜んでるっぽい。正解を選んだみたいだ。）"
+		},
+		{
+			"key": "TestDialogueScene8",
+			"value": "（終わり）"
+		},
+		{
+			"key": "Narration_Intro_1",
+			"value": "日本語バージョン。Initial scene. Flashback. Red1 and Blue1 talking."
+		},
+		{
+			"key": "Narration_Intro_2",
+			"value": "日本語バージョン。Enter young K. Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing"
+		},
+		{
+			"key": "Narration_Intro_3",
+			"value": "日本語バージョン。Map time! Intial explanation of setting."
+		},
+		{
+			"key": "Narration_Intro_4",
+			"value": "日本語バージョン。Explaining kingdom, mages, etc. Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing"
+		},
+		{
+			"key": "Dialogue_InitialMonologue_1",
+			"value": "日本語バージョン。Enter main character. Some monologue explaining his situation."
+		},
+		{
+			"key": "Dialogue_InitialMonologue_2",
+			"value": "日本語バージョン。Arrival at capital for Assembly, background on border skirmishes."
+		},
+		{
+			"key": "Town_InitialBlue1TalkedTo1",
+			"value": "さっきの話の要約。テストテストテストテストテストテストテストテストテスト"
+		},
+		{
+			"key": "Town_InitialBlue1TalkedTo2",
+			"value": "付け足しもう少し"
+		},
+		{
+			"key": "Town_InitialSoldierConfirmation1",
+			"value": "次の目標へのルートは確保致しました。"
+		},
+		{
+			"key": "Town_InitialSoldierConfirmation2",
+			"value": "出陣命令をお出しになりますか？"
+		},
+		{
+			"key": "SaveWindowText",
+			"value": "セーブスロットを選択してください。"
+		},
+		{
+			"key": "LoadWindowText",
+			"value": "ロードするデータを選んでください。"
+		},
+		{
+			"key": "SaveSlot",
+			"value": "スロット"
+		},
+		{
+			"key": "SaveTime",
+			"value": "時刻"
+		},
+		{
+			"key": "SaveFaction",
+			"value": "勢力"
+		},
+		{
+			"key": "SaveNoData",
+			"value": "データ無し"
+		},
+		{
+			"key": "SaveDone",
+			"value": "完了"
+		},
+		{
+			"key": "SaveReturnToTitle",
+			"value": "タイトルへ戻る"
+		},
+		{
+			"key": "SaveReturnConfirmation",
+			"value": "本当にタイトル画面へ戻ってよろしいですか？"
+		},
+		{
+			"key": "SaveWriteConfirmation",
+			"value": "現在の進行状況をこのスロットへ書き込んでもよろしいですか？"
+		},
+		{
+			"key": "LoadDataConfirmation",
+			"value": "このデータをロードしますか？"
+		},
+		{
+			"key": "DefeatText",
+			"value": "物語は収束を待たず終わった。\n\nあなたの名は書き連ねられた敗者達の中の一つだ。"
+		}
+	]
+}
