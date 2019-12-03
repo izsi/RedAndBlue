@@ -24,6 +24,8 @@ public static class SceneFinder
                 return new Town_InitialChild1();
             case "TitleScene":
                 return new TitleScene();
+            case "Dialogue_InitialBlue1":
+                return new Dialogue_InitialBlue1();
             default:
                 Debug.Log($"Unrecognised scene name: {name}");
                 throw new ArgumentException($"Unrecognised scene name: {name}");
@@ -37,6 +39,8 @@ public static class SceneFinder
         {
             case "Dialogue_InitialMonologue":
                 return new Dialogue_InitialMonologue();
+            case "Dialogue_InitialBlue1":
+                return new Dialogue_InitialBlue1();
             default:
                 Debug.Log($"Unrecognised scene name: {name}");
                 throw new ArgumentException($"Unrecognised scene name: {name}");

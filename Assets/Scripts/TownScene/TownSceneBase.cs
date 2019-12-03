@@ -47,10 +47,26 @@ public abstract class TownSceneBase : ISceneClass
         return transform;
     }
 
+    public Transform TopRightSprite(TownSpriteBase sprite)
+    {
+        Transform transform = sprite.GetComponent<Transform>();
+        transform.localPosition = new Vector3(590f, -350f);
+        transform.localScale = new Vector3(0.4f, 0.4f, 1f);
+        return transform;
+    }
+
     public Transform BottomRightSprite(TownSpriteBase sprite)
     {
         Transform transform = sprite.GetComponent<Transform>();
         transform.localPosition = new Vector3(590f, -350f);
+        transform.localScale = new Vector3(0.6f, 0.6f, 1f);
+        return transform;
+    }
+
+    public Transform BottomLeftSprite(TownSpriteBase sprite)
+    {
+        Transform transform = sprite.GetComponent<Transform>();
+        transform.localPosition = new Vector3(-630f, -350f);
         transform.localScale = new Vector3(0.6f, 0.6f, 1f);
         return transform;
     }

@@ -34,12 +34,18 @@ public class Town_Initial : TownSceneBase, ISceneClass
         // Testing
         //DataManager.instance.CurrentState.Faction = PlayerFaction.Blue;
 
-        var townSprites = GetTownSprites();
+        List<TownDialogueSprite> townSprites = GetTownSprites();
 
-        TownDialogueSprite dialogueSprite = townSprites[0];
-        var dialogueSpriteDialogue = new string[][] { new string[] { "Blue1Name", "Town_InitialBlue1TalkedTo1" }, new string[] { "Blue1Name", "Town_InitialBlue1TalkedTo2" } };        
-        dialogueSprite.SetUpDialogue(new TestScene(), dialogueSpriteDialogue);
-        dialogueSprite.SetUpImages("TownBlue1", TopLeftSprite(dialogueSprite).localPosition, TopLeftSprite(dialogueSprite).localScale);
+        TownDialogueSprite spriteBlue1 = townSprites[0];
+        var summaryBlue1 = new string[][] { new string[] { "Blue1Name", "Town_InitialBlue1TalkedTo1" }, new string[] { "Blue1Name", "Town_InitialBlue1TalkedTo2" } };        
+        spriteBlue1.SetUpDialogue(new Dialogue_InitialBlue1(), summaryBlue1);
+        spriteBlue1.SetUpImages("TownBlue1", CentreSprite(spriteBlue1).localPosition + new Vector3(-100, 0), CentreSprite(spriteBlue1).localScale);
+
+        //TownDialogueSprite spriteBlue2 = townSprites[1];
+        //var summaryBlue2 = new string[][] { new string[] { "Blue1Name", "Town_InitialBlue1TalkedTo1" }, new string[] { "Blue1Name", "Town_InitialBlue1TalkedTo2" } };
+        //spriteBlue2.SetUpDialogue(new Dialogue_InitialBlue1(), summaryBlue2);
+        //spriteBlue2.SetUpImages("TownBlue1", BottomLeftSprite(spriteBlue2).localPosition, BottomLeftSprite(spriteBlue2).localScale);
+
 
         NextSceneSprite nextSceneSprite = Controller.NextSceneSprite.GetComponent<NextSceneSprite>();
         var nextSceneConfirmation = new string[][] { new string[] { "SoldierName", "Town_InitialSoldierConfirmation1" }, new string[] { "SoldierName", "Town_InitialSoldierConfirmation2" } };

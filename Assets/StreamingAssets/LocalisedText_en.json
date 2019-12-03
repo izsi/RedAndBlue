@@ -168,6 +168,54 @@
 			"value": "Would you like to give the order to leave for battle?"
 		},
 		{
+			"key": "Dialogue_InitialBlue1_1",
+			"value": "First conversation with Blue1. Blue1 speaking."
+		},
+		{
+			"key": "Dialogue_InitialBlue1_2",
+			"value": "Main character speaking."
+		},
+		{
+			"key": "Dialogue_InitialBlue1_3",
+			"value": "Blue1 speaking."
+		},
+		{
+			"key": "Dialogue_InitialBlue1_4",
+			"value": "Main character wonders whether to comment on Blue1's eyepatch."
+		},
+		{
+			"key": "Dialogue_InitialBlue1_FirstOption",
+			"value": "Don't press the matter"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_SecondOption",
+			"value": "Ask more"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_ThirdOption",
+			"value": "Other option"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_5",
+			"value": "Not pressing the matter"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_6",
+			"value": "Blue1 speaking"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_7",
+			"value": "Asking too much"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_8",
+			"value": "Blue1 closes the issue"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_9",
+			"value": "Blue1 speaking"
+		},
+		{
 			"key": "SaveWindowText",
 			"value": "Select a slot to save your progress."
 		},

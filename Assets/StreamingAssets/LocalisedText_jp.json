@@ -167,6 +167,54 @@
 			"key": "Town_InitialSoldierConfirmation2",
 			"value": "出陣命令をお出しになりますか？"
 		},
+				{
+			"key": "Dialogue_InitialBlue1_1",
+			"value": "First conversation with Blue1. Blue1 speaking. テストテスト"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_2",
+			"value": "Main character speaking. テストテスト"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_3",
+			"value": "Blue1 speaking. テストテスト"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_4",
+			"value": "Main character wonders whether to comment on Blue1's eyepatch. テストテスト"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_FirstOption",
+			"value": "Don't press the matter テストテスト"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_SecondOption",
+			"value": "Ask more テストテスト"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_ThirdOption",
+			"value": "Other option テストテスト"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_5",
+			"value": "Not pressing the matter テストテスト"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_6",
+			"value": "Blue1 speaking テストテスト"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_7",
+			"value": "Asking too much テストテスト"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_8",
+			"value": "Blue1 closes the issue テストテスト"
+		},
+		{
+			"key": "Dialogue_InitialBlue1_9",
+			"value": "Blue1 speaking テストテスト"
+		},
 		{
 			"key": "SaveWindowText",
 			"value": "セーブスロットを選択してください。"
